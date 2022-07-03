@@ -1,4 +1,4 @@
-
+import './Noticias.css'
 
 function Noticia({desc}){
     return(

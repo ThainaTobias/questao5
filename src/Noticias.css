@@ -1,0 +1,13 @@
+.card{
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    margin: 0px 24px;
+   }
+   
+   .desc{
+       color: #000000;
+       font-size: 18px;
+       font-family: Roboto, sans-serif;
+       
+   }
