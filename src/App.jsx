@@ -1,4 +1,5 @@
 import Noticia from './Noticia.jsx';
+import './App.css';
 
 function App() {
     const lista_noticias = [
